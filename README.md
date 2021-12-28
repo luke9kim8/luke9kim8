@@ -1,4 +1,4 @@
-# 👋 <samp> Hi there, I'm Luke </samp>
+# <samp> Hi there, I'm Luke 👋 </samp>
 
 <!--
 Thanks to @therealsharath for such awesome template
