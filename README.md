@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Luke
+# 👋 <samp> Hi there, I'm Luke </samp>
 <!--
 Thanks to @therealsharath for such awesome template
 **therealsharath/therealsharath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,18 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm a junior at Georgia Tech 🐝 studying CS
+## <samp> I'm a junior at Georgia Tech 🐝 studying CS </samp>
 <a href="https://www.linkedin.com/in/luke-wooseok-kim/"> <img src="https://img.shields.io/badge/-luke--wooseok--kim-0A66C2?logo=linkedin&style=flat-square"/> </a>
 <a href="mailto: luke9kim8@gmail.com"> <img src="https://img.shields.io/badge/luke9kim8-D14836?&logo=gmail&logoColor=white&style=flat-square"/> </a>
 
-
 ### Little bit more about me 
-- 🔭 I’m currently working on ...
-    - building web apps for Bits of Good, a student run org building apps for nonprofits!
-- ⚙️ This summer and fall, I've worked at NCR automating migration and building CI/CD pipeline with Github Actions
-- 🏫 I led a bootcamp for Bits of Good where I taught HTML, CSS, JavaScript and a heck a lot of React and NextJS
-- 🌱 I’m currently learning Haskell and Rust for funs and giggles 
-- 📫 Check out my pinned projects below and feel free to reach out to me if you find any of my projects interesting! 
+- 🔭 <samp>I’m currently working on ... </samp>
+    - <samp> building web apps for Bits of Good, a student run org building apps for nonprofits! </samp>
+- ⚙️ <samp> This summer and fall, I've worked at NCR automating migration and building CI/CD pipeline with Github Actions</samp>
+- 🏫 <samp> I led a bootcamp for Bits of Good where I taught HTML, CSS, JavaScript and a heck a lot of React and NextJS</samp>
+- 🌱 <samp> I’m currently learning Haskell and Rust for funs and giggles </samp>
+- 📫 <samp> Check out my pinned projects below and feel free to reach out to me if you find any of my projects interesting! </samp>
 
 <p align="center">
     <a href="https://github.com/therealsharath" target="_blank">
