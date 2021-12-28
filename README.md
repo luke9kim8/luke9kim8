@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/luke-wooseok-kim/"> <img src="https://img.shields.io/badge/-luke--wooseok--kim-0A66C2?logo=linkedin&style=flat-square"/> </a>
 <a href="mailto: luke9kim8@gmail.com"> <img src="https://img.shields.io/badge/luke9kim8-D14836?&logo=gmail&logoColor=white&style=flat-square"/> </a>
 
-### Little bit more about me 
+### <samp> Little bit more about me </samp>
 - 🔭 <samp>I’m currently working on ... </samp>
     - <samp> building web apps for Bits of Good, a student run org building apps for nonprofits! </samp>
 - ⚙️ <samp> This summer and fall, I've worked at NCR automating migration and building CI/CD pipeline with Github Actions</samp>
