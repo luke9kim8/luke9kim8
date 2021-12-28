@@ -1,4 +1,5 @@
 # 👋 <samp> Hi there, I'm Luke </samp>
+
 <!--
 Thanks to @therealsharath for such awesome template
 **therealsharath/therealsharath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## <samp> I'm a junior at Georgia Tech 🐝 studying CS </samp>
-<a href="https://www.linkedin.com/in/luke-wooseok-kim/"> <img src="https://img.shields.io/badge/-luke--wooseok--kim-0A66C2?logo=linkedin&style=flat-square"/> </a>
-<a href="mailto: luke9kim8@gmail.com"> <img src="https://img.shields.io/badge/luke9kim8-D14836?&logo=gmail&logoColor=white&style=flat-square"/> </a>
-
 ### <samp> Little bit more about me </samp>
 - 🔭 <samp>I’m currently working on ... </samp>
     - <samp> building web apps for Bits of Good, a student run org building apps for nonprofits! </samp>
@@ -32,3 +30,7 @@ Here are some ideas to get you started:
         <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luke9kim8&layout=compact&langs_count=8&theme=great-gatsby"/>
     </a>
 </p>
+
+<a href="https://www.linkedin.com/in/luke-wooseok-kim/"> <img src="https://img.shields.io/badge/-luke--wooseok--kim-0A66C2?logo=linkedin&style=flat-square"/> </a>
+<a href="mailto: luke9kim8@gmail.com"> <img src="https://img.shields.io/badge/luke9kim8-D14836?&logo=gmail&logoColor=white&style=flat-square"/> </a>
+
