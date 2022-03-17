@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ## <samp> I'm a junior at Georgia Tech 🐝 studying CS </samp>
 ### <samp> Little bit more about me </samp>
 - 🔭 <samp>I’m currently working on ... </samp>
-    - <samp> maintaining projects for Bits of Good, a student run org building apps for nonprofits! </samp>
-    - <samp> building Tiger [compiler](https://github.gatech.edu/tkiang3/project1) in Haskell >>= </samp>
+    - <samp> [maintaining projects](https://github.com/orgs/GTBitsOfGood/projects/2) for [Bits of Good](https://bitsofgood.org/), a student run org building apps for nonprofits! </samp>
+    - <samp> building [Tiger compiler](https://github.gatech.edu/tkiang3/project1) in Haskell >>= </samp>
 - ⚙️ <samp> This summer and fall, I've worked at NCR automating migration for restuarant management platforms and building CI/CD pipeline with Github Actions</samp>
 - 🏫 <samp> I led a bootcamp for Bits of Good where I taught HTML, CSS, JavaScript and a heck a lot of React and NextJS</samp>
 - 🌱 <samp> I’m currently learning Haskell and Rust for funs and giggles </samp>
