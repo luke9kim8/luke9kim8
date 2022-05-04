@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 ### <samp> Little bit more about me </samp>
 - 🔭 <samp>I’m currently working on ... </samp>
     - <samp> [maintaining projects](https://github.com/orgs/GTBitsOfGood/projects/2) for [Bits of Good](https://bitsofgood.org/), a student run org building apps for nonprofits! </samp>
-    - <samp> building [Tiger compiler](https://github.gatech.edu/tkiang3/project1) in Haskell >>= </samp>
-- ⚙️ <samp> This summer and fall, I've worked at NCR automating migration for restuarant management platforms and building CI/CD pipeline with Github Actions</samp>
+    - <samp> building an [alpha-beta tree chess AI](https://github.com/its-edmund/beta-one) using Rust 🦀 ♟️ </samp>
+- ⚙️ <samp> I am working at Meta this summer on Messenger API for Businesses Team! 💬 </samp>
 - 🏫 <samp> I led a bootcamp for Bits of Good where I taught HTML, CSS, JavaScript and a heck a lot of React and NextJS</samp>
-- 🌱 <samp> I’m currently learning Haskell and Rust for funs and giggles </samp>
+- 🌱 <samp> I’m currently learning Haskell and Rust for funs and giggles >>= </samp>
 - 📫 <samp> Check out my pinned projects below and feel free to reach out to me if you find any of them interesting! </samp>
 
 <p align="center">
